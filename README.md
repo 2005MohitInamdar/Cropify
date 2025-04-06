@@ -1,6 +1,6 @@
 # 🌾 Cropify
 
-**Cropify** is a Flutter-based mobile application designed to connect farmers with dealers and potential buyers. The platform enables farmers to post crop listings with preferred price ranges, while buyers can browse, connect, and chat — all within the app.
+**Cropify** is a smart digital marketplace connecting farmers directly with buyers and dealers. It allows farmers to list crops with pricing, quantity, and other details while buyers can browse, filter, and connect easily. With real-time chat and a transparent system, Cropify ensures fair pricing, seamless transactions, and better marketing opportunities for both parties.
 
 ---
 
